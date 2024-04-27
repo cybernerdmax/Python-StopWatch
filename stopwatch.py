@@ -1,3 +1,4 @@
+# Python Stopwatch by Cyber Nerd using Tkinter
 import tkinter
 import time
 
